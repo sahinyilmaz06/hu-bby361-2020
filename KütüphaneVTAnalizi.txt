@@ -1,0 +1,25 @@
+Kütüphane Veri Tabanı Analizi
+
+* Hayata geçirilecek sistem neye hizmet edecek?
+
+-Yönetici statüsünde görev yapan iş insanlarının yararlanabileceği kitapların kataloglandığı bir veritabanıdır.
+
+* Veri tabanı hangi ihityaçları karşılayacaktır?
+
+-Kütüphanede indekslenmiş kitaplara öz, özet ve tam metin olarak ulaşılabilmesini sağlayacaktır.
+
+* Veri tabanında hangi veriler depolanacaktır?
+
+-Kitap, yazar ve yayınevi bilgileri depolanacaktır.
+
+*Veri tabanında ne tür veriler depolanacaktır?
+
+-Eser adı
+-Yazar adı
+-Yayınevi bilgisi
+-Yayın yılı
+-Yayın yeri
+-Basım yılı
+-ISBN
+-Sayfa Sayısı
+-Dil
